@@ -1,2 +1,3 @@
-# first-projekt-and-last-
-dfgd
+git init
+git add .
+git commit -m "Init"
